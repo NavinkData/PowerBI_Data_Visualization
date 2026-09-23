@@ -1,48 +1,84 @@
-# Power BI Data Visualization
+# Power BI Data Visualization Portfolio
 
-## 📌 Overview
+## Project Overview
 
-This project demonstrates the use of **Microsoft Power BI** to transform data into clear, interactive, and business-focused visual insights. The analysis focuses on **Clustered Column Charts** and **Stacked Column Charts** to compare category-level performance and understand the contribution of individual segments.
+This repository showcases a **Power BI data visualization and reporting project** focused on transforming structured data into clear, interactive, and meaningful visual insights. The project demonstrates the use of **Clustered Column Charts** and **Stacked Column Charts** for category-wise comparison and composition analysis.
 
-The project reflects hands-on experience with Power BI visualization techniques and emphasizes selecting appropriate visuals to communicate data effectively.
+The dashboard is designed to present data in a structured and easy-to-interpret format, helping users compare performance across categories, understand component-level contributions, and identify meaningful differences within the dataset.
 
-## 📊 Visualizations
+The project demonstrates practical experience in **data visualization, dashboard design, analytical thinking, and data storytelling**, with an emphasis on selecting appropriate visualizations for different analytical requirements.
+
+## Dashboard Preview
 
 ### Clustered Column Chart
 
-Used to compare values across different categories, making it easier to identify differences and variations in performance.
+![Clustered Column Chart](images/clustered-column-chart.png)
+
+*Clustered Column Chart used for side-by-side comparison of values across categories.*
 
 ### Stacked Column Chart
 
-Used to analyze the composition of total values and understand how individual categories contribute to the overall result.
+![Stacked Column Chart](images/stacked-column-chart.png)
 
-## 🎯 Key Skills Demonstrated
+*Stacked Column Chart used to analyze total values and the contribution of individual categories.*
 
-* Data visualization and storytelling
-* Category-wise data analysis
-* Comparative analysis
-* Composition and contribution analysis
-* Power BI visual design and formatting
-* Selecting appropriate visualizations for analytical requirements
+## Visualizations
 
-## 🛠️ Tools & Technologies
+### Clustered Column Chart
 
-**Microsoft Power BI | DAX | Data Visualization | Data Analysis**
+Used to perform **side-by-side comparisons** across multiple categories. This visualization makes it easier to identify differences, variations, and relative performance between data segments.
 
-## 💡 Key Learning
+### Stacked Column Chart
 
-This project strengthened my practical understanding of how different visualization techniques can be applied to convert raw data into **meaningful and easy-to-interpret insights**.
+Used to analyze both **overall totals and category-level contributions** within the same visual. This helps provide a clearer understanding of how individual segments contribute to the overall result.
 
-It also helped me develop a better understanding of presenting analytical results in a structured and professional manner.
+## Key Analytical Skills
 
-## 📁 Project Contents
+* Data Visualization
+* Comparative Analysis
+* Category-wise Analysis
+* Contribution Analysis
+* Data Interpretation
+* Data Storytelling
+* Dashboard Design
+* Business-focused Reporting
 
-* Power BI dashboard (`.pbix`)
-* Dataset used for analysis
-* Dashboard/visualization screenshots
-* Project documentation
+## Tools & Technologies
 
-## 👤 Author
+* **Power BI** — Interactive dashboard development and data visualization
+* **DAX** — Measures and calculated metrics
+* **SQL** — Data querying and analysis
+* **Excel** — Data preparation and validation
+* **Python** — Data processing and analytical workflows
+* **NumPy** — Numerical computing and array-based data operations
+* **Pandas** — Data manipulation and analysis
+* **Matplotlib** — Exploratory data visualization
+* **GenAI** — AI-assisted analytical workflows and documentation
+
+## Key Takeaways
+
+* Applied Power BI visualization techniques to present data in a clear and structured format.
+* Used clustered and stacked column charts for comparative and composition-based analysis.
+* Strengthened practical understanding of visual selection and dashboard design.
+* Focused on converting data into meaningful visual insights through effective data storytelling.
+* Developed a foundation for creating professional and business-oriented analytical reports.
+
+## Project Structure
+
+```text
+PowerBI_Data_Visualization/
+│
+├── images/
+│   ├── clustered-column-chart.png
+│   └── stacked-column-chart.png
+│
+├── PowerBI_Data_Visualization.pbix
+├── Dataset/
+└── README.md
+```
+
+## Professional Profile
 
 **Navin Singh**
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+
+**Data Analytics | Power BI | SQL | Excel | Python | NumPy | Pandas | Matplotlib | GenAI**
