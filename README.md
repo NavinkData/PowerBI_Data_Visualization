@@ -12,13 +12,13 @@ The project demonstrates practical experience in **data visualization, dashboard
 
 ### Clustered Column Chart
 
-![Clustered Column Chart](images/clustered-column-chart.png)
+![Clustered Column Chart](https://github.com/NavinkData/PowerBI_Data_Visualization/blob/main/Screenshot%202026-09-23%20075411.png)
 
 *Clustered Column Chart used for side-by-side comparison of values across categories.*
 
 ### Stacked Column Chart
 
-![Stacked Column Chart](images/stacked-column-chart.png)
+![Stacked Column Chart](https://github.com/NavinkData/PowerBI_Data_Visualization/blob/main/Screenshot%202026-09-23%20075411.png)
 
 *Stacked Column Chart used to analyze total values and the contribution of individual categories.*
 
